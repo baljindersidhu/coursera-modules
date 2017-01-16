@@ -1,7 +1,7 @@
 <style>
 	* {
 		box-sizing: border-box;
-		font-family: "Arial", "Helvetica", "sans-serif";
+		font-family: "Arial Black", Gadget, sans-serif;
 	}
 	
 	.title {
@@ -14,24 +14,27 @@
 	.heading {
 		font-size: 125%;
 		border: 1px solid black;
-		position: absolute;
-		right: 0;
-		top: 0;
+		position: relative;
+		right: -1px;
+		top: -1px;
 		padding: 5px;
-		margin: 0px 0px 0px 5px;
+		margin: 0;
 		text-align: center;
+		width: 180px;
+		float: right;
 	}
 
 	.content {
 		clear: both;
-		margin-top: 40px;
+		padding: 10px;
+		margin-top: 0px;
+		position: relative;
 	}
 
 	.container {
 		border: 1px solid black;
 		position: relative;
 		margin: 15px;
-		padding-left: 5px;
 		background-color: #e6f7ff;
 	}
 
