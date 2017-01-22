@@ -76,6 +76,13 @@ ul.visible-xs.nav.navbar-nav {
   margin-top: 10px;
 } 
 
+/* to make window scrollable for desktop */
+@media (min-width: 768px) {
+	.menu-content p {
+		min-height: 800px;
+	}
+}
+
 .footer-content{
   margin-top: 20px;
 }
