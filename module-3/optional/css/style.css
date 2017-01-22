@@ -1,0 +1,83 @@
+/*Global properties*/
+body {
+	color : #fff;
+	background-color: #3f51b5;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/*header styles*/
+
+#header-nav {
+	background-color: #009688;
+	border: 0;
+  border-radius: 0;
+	min-height: 20px;
+
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Oxygen', serif;
+  color: #fff;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #fff;
+}
+
+
+button.navbar-toggle {
+  background-color: #009688;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:active, .navbar-default .navbar-toggle:focus {
+  background-color: #009688;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: 0;
+}
+
+ul.visible-xs.nav.navbar-nav {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.collapsable-menu-item span{
+  color: #fff;
+}
+
+.collapsable-menu-item:hover span{
+  color: #009688;
+}
+
+.collapsable-menu-item:hover{
+  background-color: #fff;
+}
+
+/*main content styles*/
+.menu-content .chip {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 10px 10px 15px #009688;
+  color: #009688;
+  margin-bottom: 10px;
+}
+
+.menu-content h3{
+  margin-top: 10px;
+} 
+
+.footer-content{
+  margin-top: 20px;
+}
