@@ -9,6 +9,9 @@ Modules for Each week
     <li>
       <a href="https://baljindersidhu.github.io/coursera-modules/module-3/"> Module - 3</a>
     </li>
+    <li>
+      <a href="https://baljindersidhu.github.io/coursera-modules/module-3/optional"> Module - 3 (optional)</a>
+    </li>
   </ul>
 </body>
 </html>
