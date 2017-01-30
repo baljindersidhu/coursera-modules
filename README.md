@@ -13,10 +13,10 @@ Modules for Each week
       <a href="https://baljindersidhu.github.io/coursera-modules/module-3/optional"> Module - 3 (optional)</a>
     </li>
     <li>
-      <a href="https://baljindersidhu.github.io/coursera-modules/module-4"> Module - 3 (optional)</a>
+      <a href="https://baljindersidhu.github.io/coursera-modules/module-4"> Module - 4</a>
     </li>
     <li>
-      <a href="https://baljindersidhu.github.io/coursera-modules/module-5"> Module - 3 (optional)</a>
+      <a href="https://baljindersidhu.github.io/coursera-modules/module-5"> Module - 5</a>
     </li>
   </ul>
 </body>
